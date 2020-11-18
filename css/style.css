@@ -1,0 +1,22 @@
+#top-bar {
+    background: rgba(225, 225, 255, 0.7);
+}
+#top-bar a {
+    color: var(--secondary);
+    margin: 0 5px;
+}
+nav {
+    position: relative;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    margin-left: 3px;
+    margin-right: 3px;
+    background-color: aquamarine;
+}
+#offer {
+    background: linear-gradient(#fff, #bbb);
+    padding: 90px 0;
+}
